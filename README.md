@@ -7,8 +7,11 @@
 For this exercise we will be using the Ironhack Movie Characters API. It allows you to do full CRUD on the characters. Every character has these properties:
 
 `name` - String
+
 `occupation` - String
+
 `weapon` - String
+
 `debt` - Boolean (optional, defaults to false)
 
 
