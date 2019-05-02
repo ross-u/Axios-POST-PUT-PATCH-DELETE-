@@ -1,4 +1,4 @@
-# Axios-POST-PUT-PATCH-DELETE-
+# Axios POST, PUT, PATCH DELETE
 
 
 ## API
