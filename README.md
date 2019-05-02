@@ -1,11 +1,12 @@
 # Axios-POST-PUT-PATCH-DELETE-
 
 
-# API
+## API
+
 ### [Ironhack Movie Characters API](<http://materials.ironhack.com/s/BJfHC2fTENm#ironhack-movie-characters-api>)
 
 
-### Exercise - Implement Axios DELETE
+## Exercise - Implement Axios DELETE
 
 Implement the delete button calling the DELETE method on route https://ih-crud-api.herokuapp.com/characters/{id}   with the `axios.delete`
 
